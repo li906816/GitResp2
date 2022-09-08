@@ -8,4 +8,5 @@ public class Student {
     private Double height;
 	private Date birthday;
 	private int year;
+	private String day;
 }
