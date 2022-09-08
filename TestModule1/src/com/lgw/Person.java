@@ -5,5 +5,5 @@ public class Person {
     private int age;
     private String sex;
     private Double weight;
-	private String name;
+	private String value;
 }
