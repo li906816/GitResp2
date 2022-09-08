@@ -7,4 +7,5 @@ public class Student {
     private int age;
     private Double height;
 	private Date birthday;
+	private String day;
 }
